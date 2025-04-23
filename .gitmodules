@@ -1,0 +1,3 @@
+[submodule "WifiProvisioner"]
+	path = WifiProvisioner
+	url = git@github.com:Sarazz001/WifiProvisioner.git
