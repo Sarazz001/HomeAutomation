@@ -1,3 +1,6 @@
 [submodule "WifiProvisioner"]
 	path = WifiProvisioner
 	url = git@github.com:Sarazz001/WifiProvisioner.git
+[submodule "ESP32_connect"]
+	path = ESP32_connect
+	url = git@github.com:Sarazz001/ESP32_connect.git
